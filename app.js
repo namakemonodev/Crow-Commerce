@@ -190,7 +190,7 @@ const crows = ['Murata! He\'s the king of the crows! What a lucky day!',
 //select a gift based on the crow
  randomGift = (a) => {
   //Murata
-  if(a === 1){
+  if(a === 1 || a === 0){
     if (b >= 0 && b <= 33) {
       if (c === 0) {
         console.log(murataGifts[0].gift);
@@ -474,7 +474,7 @@ const crows = ['Murata! He\'s the king of the crows! What a lucky day!',
 //Get a random crow
 //Crow appearance rates: Murata 1%, Gary 30%, Bartholomew 24%, Ciara 20%, Myra 25%
 const randomCrow = (a) => {
-  if (a === 1) {
+  if (a === 1 || a === 0) {
     return crows[0];
   } else if (a >= 2 && a <= 31) {
     return crows[1];
