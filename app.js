@@ -54,12 +54,12 @@
 
    //Bartholomew 8 gifts
    const bartholomewGifts = [{
-    gift: 'You got a Famichicki wrapper',
+    gift: 'You got a Famichiki wrapper',
     reaction1: 'I\’m not sure the message you\’re trying to send here.',
     reaction2: 'I prefer Karaage-kun…',
    },
    {
-    gift: 'You got a page ripped out of a porono mag',
+    gift: 'You got a page ripped out of a porno mag',
     reaction1: 'I didn\’t know you were into this kinda thing.',
     reaction2: 'Not gonna kink-shame, but… ',
    },
