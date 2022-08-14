@@ -37,7 +37,7 @@
     reaction2: 'Are you a dealer?',
    },
    {
-    gift: 'You got a cold, moly French fry',
+    gift: 'You got a cold, moldy French fry',
     reaction1: 'Giving me your leftovers?',
     reaction2: 'Oh, no, I\’m on a diet.',
    },
